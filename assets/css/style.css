@@ -231,7 +231,6 @@ nav {
   border-radius: 55% 45% 55% 45%;
   overflow: hidden;
   animation: imgFloat 7s ease-in-out infinite;
-  margin-top: 3em;
 }
 .image img {
   width: 380px;
