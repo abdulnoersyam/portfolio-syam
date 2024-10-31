@@ -223,6 +223,7 @@ nav {
   align-content: center;
   min-height: 80vh;
   width: 50%;
+  margin-top: 7em;
 }
 .image {
   margin: auto 0;
@@ -231,6 +232,7 @@ nav {
   border-radius: 55% 45% 55% 45%;
   overflow: hidden;
   animation: imgFloat 7s ease-in-out infinite;
+  margin-top: 3em;
 }
 .image img {
   width: 380px;
@@ -285,6 +287,10 @@ nav {
   margin-bottom: 1.5em;
 }
 .top-header h1 {
+  font-size: 35px;
+  color: #38b6ff;
+}
+h1 {
   font-size: 35px;
   color: #38b6ff;
 }
@@ -363,7 +369,7 @@ h4 {
   flex-direction: column;
   width: 30%;
   height: 250px;
-  background: var(--color-white);
+  background: #38b6ff;
   border-radius: 20px;
   box-shadow: 1px 8px 10px 2px var(--first-shadow-color);
   overflow: hidden;
